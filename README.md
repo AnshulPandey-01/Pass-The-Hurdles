@@ -17,3 +17,6 @@
 **Time Period: December 2019 – March 2020** <br />
 
 <img src="Images/img-01.png" width="200">&ensp;<img src="Images/img-02.png" width="200">&ensp;<img src="Images/img-03.png" width="200">&ensp;<img src="Images/img-04.png" width="200">
+
+
+**Note: The script folder doesn't have scripts related to Ads due to confidential information(Game ID).**
